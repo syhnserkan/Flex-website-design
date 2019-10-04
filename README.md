@@ -5,7 +5,7 @@
 ### Responsive View
 ![View](https://github.com/B1L1S1/Flex-website-design/blob/master/img/flex-2.png)
 
-#### I used "display:flex" in this project. This companent making things easier. I use flex sometimes.
+#### I used "display:flex" in this project. This companent is making things easier. I use flex sometimes.
 #### Apart from these, I used keyframes for image and buttons.
 #### How can I use keyframes ?
 ```
